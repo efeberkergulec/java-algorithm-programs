@@ -1,8 +1,5 @@
 //----------------------------------------------------- 
-// Author: Efe Berk ERGÜLEÇ 
-// ID: 24191130360 
-// Assignment: 1 
-// Question: 1 
+// Author: Efe Berk ERGÃœLEÃ‡ 
 // Description: It's the test class for my Queue array 
 // implementation
 //----------------------------------------------------- 
