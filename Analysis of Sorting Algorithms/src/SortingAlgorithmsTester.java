@@ -1,6 +1,7 @@
 import edu.princeton.cs.algs4.*;
 //-----------------------------------------------------
 // Title: Sorting Algorithms Tester
+// Author: Efe Berk ERGÜLEÇ
 // Description: This class tests the orders of all sorts
 //-----------------------------------------------------
 public class SortingAlgorithmsTester {
