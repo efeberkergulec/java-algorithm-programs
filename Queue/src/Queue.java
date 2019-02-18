@@ -1,9 +1,6 @@
 import java.util.Iterator;
 //----------------------------------------------------- 
-// Author: Efe Berk ERGÜLEÇ 
-// ID: 24191130360 
-// Assignment: 1 
-// Question: 1 
+// Author: Efe Berk ERGÃœLEÃ‡ 
 // Description: This class defines a String Queue which
 // uses array implementation
 //----------------------------------------------------- 
