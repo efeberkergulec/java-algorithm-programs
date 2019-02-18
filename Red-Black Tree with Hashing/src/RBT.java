@@ -1,8 +1,5 @@
 //-----------------------------------------------------
 // Author: Efe Berk ERGÜLEÇ
-// ID: 24191130360
-// Assignment: 5
-// Question: 1
 // Description: This class is the implementation class of RBT.
 //-----------------------------------------------------
 
