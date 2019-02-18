@@ -1,8 +1,5 @@
 //-----------------------------------------------------
-// Author: Efe Berk ERGÜLEÇ
-// ID: 24191130360
-// Assignment: 2
-// Question: 1
+// Author: Efe Berk ERGÃœLEÃ‡
 // Description: This class defines a sorting class
 //-----------------------------------------------------
 import java.util.*;
