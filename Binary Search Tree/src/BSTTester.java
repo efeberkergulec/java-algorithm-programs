@@ -1,9 +1,6 @@
 import edu.princeton.cs.algs4.*;
 //-----------------------------------------------------
 // Author: Efe Berk ERGÜLEÇ
-// ID: 24191130360
-// Assignment: 4
-// Question: 1
 // Description: This class defines a BST
 //-----------------------------------------------------
 
